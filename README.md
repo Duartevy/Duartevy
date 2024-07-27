@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Duartevy
-- 👀 I’m interested in: Desenvolver e aprender com a comunidade, meu interesse é Back-end, inicialmente Python e Java, mas não me limito a outras linguagens
+- 👀 I’m interested in: Desenvolver e aprender com a comunidade, meu interesse é em QA/ Back-end, Python e Java, mas não me limito a outras linguagens
 - 🌱 I’m currently learning: Pyhton, querendo me aprofundar em Java, e tenho conhecimento breve em HTML, JS, CSS
 - 💞️ I’m looking to collaborate on: Quero colaborar como Developer, colocando em prática as minhas habilidades e assim colaborando para o crescimento da empresa.
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/milene-d-b3558022a/
