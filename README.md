@@ -1,12 +1,24 @@
-Hi World, I'am @Duartevy
-- 👀 Tenho interesse em: Desenvolver e aprender com a comunidade, meu interesse é em QA/ Back-end. Sempre buscando aprender mais com as tecnologias utilizadas atualmente.
-- 🌱 Tenho familiaridade com: Pyhton, PHP, HTML, CSS, JavaScript, Selenium, Postman, Cypress
-- 💞️ Procuro colaborar: Conseguir a minha primeira oportunidade na área de Desenvolvimento/QA e contribuir para o crescimento da empresa junto às minhas habilidades e técnicas.
-- 📫 Como entrar em contato comigo: Linkedin: https://www.linkedin.com/in/milene-d-b3558022a/
-- 😄 Pronomes: ... Ela/Dela
-- ⚡ Curiosidades: Adoro rir de tudo e me divertir com meus colegas, gosto de correr e de praticar esportes.
+# Milene Duarte
+**Desenvolvedora Full Stack | QA**
 
-<!---
-Duartevy/Duartevy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+---
+
+## 🚀 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+...
+
+## 📊 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=radical)](https://git.io/streak-stats)
+
+## 🏆 Conquistas
+[![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milene-d-b3558022a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](duartevy@icloud.com)
+
 --->
