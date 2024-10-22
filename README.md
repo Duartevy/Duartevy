@@ -15,20 +15,33 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+---
+
+## 🌟 Repositórios Populares
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Duartevy&repo=Tech-Portfolio&theme=radical)](https://github.com/Duartevy/Tech-Portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Duartevy&repo=sequencia-fibonacci&theme=radical)](https://github.com/Duartevy/sequencia-fibonacci)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Duartevy&repo=ajuste-salario&theme=radical)](https://github.com/Duartevy/ajuste-salario)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Duartevy&repo=Teste-automatizado-de-cadastro-de-produto&theme=radical)](https://github.com/Duartevy/Teste-automatizado-de-cadastro-de-produto)
+
+---
 
 ## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duartevy&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duartevy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Duartevy&theme=radical)](https://git.io/streak-stats)
 
+---
 
 ## 🏆 Conquistas
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Duartevy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
 
 ## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milene-d-b3558022a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milenegba@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Duartevy)
+
 
 
