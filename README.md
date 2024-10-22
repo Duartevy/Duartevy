@@ -1,7 +1,7 @@
 # Milene Duarte
 **Desenvolvedora Full Stack | QA**
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+![Status](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 
 ---
 
