@@ -19,10 +19,13 @@
 
 ## 🌟 Repositórios Populares
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Duartevy&repo=Tech-Portfolio&theme=radical)](https://github.com/Duartevy/Tech-Portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Duartevy&repo=Duartevy&theme=radical)](https://github.com/Duartevy/Duartevy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Duartevy&repo=sequencia-fibonacci&theme=radical)](https://github.com/Duartevy/sequencia-fibonacci)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Duartevy&repo=ajuste-salario&theme=radical)](https://github.com/Duartevy/ajuste-salario)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Duartevy&repo=Teste-automatizado-de-cadastro-de-produto&theme=radical)](https://github.com/Duartevy/Teste-automatizado-de-cadastro-de-produto)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Duartevy&repo=Agenda-Telefonica&theme=radical)](https://github.com/Duartevy/Agenda-Telefonica)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Duartevy&repo=Frontend-capivaras&theme=radical)](https://github.com/Duartevy/Frontend-capivaras)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Duartevy&repo=reajuste_salario&theme=radical)](https://github.com/Duartevy/reajuste_salario)
+
 
 ---
 
