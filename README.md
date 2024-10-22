@@ -1,6 +1,8 @@
 # Milene Duarte
 **Desenvolvedora Full Stack | QA**
 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ---
 
 ## 🚀 Tech Stack
@@ -26,7 +28,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Duartevy&repo=Frontend-capivaras&theme=radical)](https://github.com/Duartevy/Frontend-capivaras)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Duartevy&repo=reajuste_salario&theme=radical)](https://github.com/Duartevy/reajuste_salario)
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -37,14 +38,28 @@
 ---
 
 ## 🏆 Conquistas
-[![trophy](https://github-profile-trophy.vercel.app/?username=Duartevy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Duartevy&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Duartevy&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ----------- | ----------- |
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Duartevy&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
 
 ---
 
 ## 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milene-d-b3558022a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milenegba@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Duartevy)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+  </a>
+  <br />
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milene-d-b3558022a/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milenegba@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Duartevy)
+</div>
+
 
 
 
