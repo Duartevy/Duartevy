@@ -1,12 +1,10 @@
 **Desenvolvedora Back-End**
 
-
-![Status](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
+<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg" width="100%" />
 
 ---
 
-
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Duartevy&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Duartevy&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Duartevy&theme=dracula&utcOffset=-3) | ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Duartevy&theme=dracula) |
 | ----------- | ----------- |
 
 <div align="center">
