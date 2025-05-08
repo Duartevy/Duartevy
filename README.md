@@ -1,5 +1,5 @@
  ## Desenvolvedora Back-End
- | ----------- | ----------- |
+ 
 
 ---
 
